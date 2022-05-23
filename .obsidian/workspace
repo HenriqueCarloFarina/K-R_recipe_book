@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mains/Mexican fish stew.md",
+            "file": "mains/Sicilian Grilled Tuna.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mains/Mexican fish stew.md",
+                "file": "mains/Sicilian Grilled Tuna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "437ade4ee29c8eb7",
   "lastOpenFiles": [
-    "mains/Mexican fish stew.md",
-    "z_imgs/miso_aubergine.jpg",
-    "mains/Miso aubergine.md",
     "mains/Sicilian Grilled Tuna.md",
-    "z_imgs/sicilian_tuna.jpg",
     "mains/Prawns gambas bravas.md",
+    "mains/Miso aubergine.md",
+    "mains/Mexican fish stew.md",
     "salads/Aspargus beetroot salad.md",
-    "Pasted image 20220523111154.png",
-    "salads/Vietnamese salad with prawns.md",
-    "salads/broccoli aspargus pine nut salad.md"
+    "salads/broccoli aspargus pine nut salad.md",
+    "salads/Broccoli, sunflower seed, beetroot salad.md",
+    "salads/Cavolo nero with parmesan and roasted pine nuts.md",
+    "salads/Raw beetroot and mint salad.md",
+    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md"
   ]
 }
