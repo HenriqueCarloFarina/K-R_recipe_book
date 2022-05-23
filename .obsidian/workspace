@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "5dfc368a3b60a43a",
+    "type": "split",
+    "children": [
+      {
+        "id": "437ade4ee29c8eb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mains/Mexican fish stew.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a031e21393883ed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcc77021049a57a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72da06e031adffff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a1edbc79353013d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "94e669b8863740c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "930fe4ae667c8dd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f4e6540f4fe3dc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mains/Mexican fish stew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "437ade4ee29c8eb7",
+  "lastOpenFiles": [
+    "mains/Mexican fish stew.md",
+    "z_imgs/miso_aubergine.jpg",
+    "mains/Miso aubergine.md",
+    "mains/Sicilian Grilled Tuna.md",
+    "z_imgs/sicilian_tuna.jpg",
+    "mains/Prawns gambas bravas.md",
+    "salads/Aspargus beetroot salad.md",
+    "Pasted image 20220523111154.png",
+    "salads/Vietnamese salad with prawns.md",
+    "salads/broccoli aspargus pine nut salad.md"
+  ]
+}
