@@ -1,6 +1,6 @@
 ### Miso aubergine
 
-![miso_aubergine.jpg]
+![alt](miso_aubergine.jpg)
 
 #main #asian
 
