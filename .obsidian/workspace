@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "starters_sides/Joels oven potatoes.md",
+            "file": "mains/Miso aubergine.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "starters_sides/Joels oven potatoes.md",
+                "file": "mains/Miso aubergine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "e2c0b3ad3b9be795",
   "lastOpenFiles": [
+    "mains/Miso aubergine.md",
+    "mains/Mexican fish stew.md",
     "starters_sides/Joels oven potatoes.md",
     "timings_notes/Boiled egg timings.md",
     "timings_notes/Buckwheat cooking timings.md",
@@ -95,8 +97,6 @@
     "timings_notes/Pecan butter timings.md",
     "timings_notes/Roasted nuts timing.md",
     "starters_sides/Sweet potato chips.md",
-    "starters_sides/Pão de queijo.md",
-    "sauces/Katie’s tomato sauce.md",
-    "sauces/Garlicky yogurt tahini sauce.md"
+    "starters_sides/Pão de queijo.md"
   ]
 }
