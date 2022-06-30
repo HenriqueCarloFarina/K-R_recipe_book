@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c0b3ad3b9be795",
+        "id": "2fa92d59547d2789",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "mains/Miso aubergine.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mains/Miso aubergine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e2c0b3ad3b9be795",
+  "active": "2fa92d59547d2789",
   "lastOpenFiles": [
     "mains/Miso aubergine.md",
     "mains/Mexican fish stew.md",
