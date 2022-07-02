@@ -2,7 +2,7 @@
 
 #Salad
 
-![[cavolo_nero_salad1.png|300]]  
+![alt](/z_imgs/cavolo_nero_salad1.png)
 
 **Ingredients**:
 - Cavolo Nero  

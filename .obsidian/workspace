@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "mains/Sicilian Grilled Tuna.md",
+            "file": "starters_sides/Sweet potato chips.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mains/Sicilian Grilled Tuna.md",
+                "file": "starters_sides/Sweet potato chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "d9789d07e9dcc1ea",
   "lastOpenFiles": [
-    "mains/Sicilian Grilled Tuna.md",
-    "mains/Prawns gambas bravas.md",
-    "salads/Aspargus beetroot salad.md",
-    "mains/Prawn and tofu stir fry.md",
-    "mains/Miso aubergine.md",
-    "mains/Mexican fish stew.md",
-    "mains/Gnocchi GF.md",
-    "mains/Caponata.md",
-    "mains/miso_aubergine.jpg",
-    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md"
+    "starters_sides/Sweet potato chips.md",
+    "starters_sides/Pão de queijo.md",
+    "starters_sides/Joels oven potatoes.md",
+    "sauces/Katie’s tomato sauce.md",
+    "sauces/Garlicky yogurt tahini sauce.md",
+    "salads/Vietnamese salad with prawns.md",
+    "salads/Spring onion and pumpkin seeds salad.md",
+    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md",
+    "salads/Raw beetroot and mint salad.md",
+    "salads/Cavolo nero with parmesan and roasted pine nuts.md"
   ]
 }

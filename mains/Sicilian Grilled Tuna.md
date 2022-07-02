@@ -1,6 +1,6 @@
 ### Sicilian tuna
 
-![[z_imgs/sicilian_tuna.jpg]]
+![alt](/z_imgs/sicilian_tuna.jpg)
 
 #main #italian #sicilian
 

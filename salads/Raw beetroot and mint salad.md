@@ -1,6 +1,6 @@
 ### Raw beetroot and mint salad
 
-![[raw_beetroot.jpg]]
+![alt](/z_imgs/raw_beetroot.jpg)
 
 #salad 
 

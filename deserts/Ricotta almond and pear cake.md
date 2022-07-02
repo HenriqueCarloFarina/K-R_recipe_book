@@ -1,6 +1,6 @@
 ### Ricotta, almond and pear cake
 
-![[ricota_cake.jpg]]
+![alt](/z_imgs/ricota_cake.jpg)
 
 #desert #italian 
 

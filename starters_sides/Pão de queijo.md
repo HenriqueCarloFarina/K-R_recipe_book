@@ -1,6 +1,6 @@
 ### Pão de queijo
 
-![[pao_de_queijo_s.jpg]]
+![alt](/z_imgs/pao_de_queijo_s.jpg)
 
 #starters #sides
 

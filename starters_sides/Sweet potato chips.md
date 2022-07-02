@@ -1,6 +1,6 @@
 ### Sweet potato chips
 
-![[sweet_potato_s.jpg]]
+![alt](/z_imgs/sweet_potato_s.jpg)
 
 #starters  #sides 
 

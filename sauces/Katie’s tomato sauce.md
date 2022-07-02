@@ -1,6 +1,6 @@
 ### Katie’s special tomato sauce
 
-![[k_tomato_souce.jpg]]
+![alt](/z_imgs/k_tomato_souce.jpg)
 
 #sauce #italian
 
