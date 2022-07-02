@@ -1,6 +1,6 @@
 ### Prawns: Gambas bravas
 
-![[gambas_bravas.jpg]]
+![alt](/z_imgs/gambas_bravas.jpg)
 
 #main
 

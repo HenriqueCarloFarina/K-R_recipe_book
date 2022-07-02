@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "27edca2baaf7105e",
+        "id": "d9789d07e9dcc1ea",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "mains/Sicilian Grilled Tuna.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mains/Sicilian Grilled Tuna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27edca2baaf7105e",
+  "active": "d9789d07e9dcc1ea",
   "lastOpenFiles": [
-    "mains/Miso aubergine.md",
-    "mains/miso_aubergine.jpg",
-    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md",
-    "salads/Raw beetroot and mint salad.md",
-    "salads/Cavolo nero with parmesan and roasted pine nuts.md",
-    "salads/Broccoli, sunflower seed, beetroot salad.md",
-    "salads/broccoli aspargus pine nut salad.md",
+    "mains/Sicilian Grilled Tuna.md",
+    "mains/Prawns gambas bravas.md",
     "salads/Aspargus beetroot salad.md",
-    "z_imgs/beetroot_salad.jpg",
-    "z_imgs/beetroot_salad 1.jpg"
+    "mains/Prawn and tofu stir fry.md",
+    "mains/Miso aubergine.md",
+    "mains/Mexican fish stew.md",
+    "mains/Gnocchi GF.md",
+    "mains/Caponata.md",
+    "mains/miso_aubergine.jpg",
+    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md"
   ]
 }

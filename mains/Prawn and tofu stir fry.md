@@ -1,6 +1,6 @@
 ### Asian prawn and tofu stir fry
 
-![[prawn_tofu_stir_fry.jpg]]
+![alt](/z_imgs/prawn_tofu_stir_fry.jpg)
 
 #main #asian
 
