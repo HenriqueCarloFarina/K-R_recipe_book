@@ -1,7 +1,6 @@
 ### Miso aubergine
 
-![alt](miso_aubergine.jpg)
-
+![alt](/z_imgs/miso_aubergine1.jpg)
 #main #asian
 
 **Ingredients:**

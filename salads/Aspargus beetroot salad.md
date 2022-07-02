@@ -1,6 +1,6 @@
 ### Aspargus beetroot salad
 
-![[beetroot_salad 1.jpg]]
+![[beetroot_salad.jpg]]
 
 #salad
  

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0ace0bec02bc8435",
+        "id": "27edca2baaf7105e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ace0bec02bc8435",
+  "active": "27edca2baaf7105e",
   "lastOpenFiles": [
     "mains/Miso aubergine.md",
-    "mains/Mexican fish stew.md",
-    "starters_sides/Joels oven potatoes.md",
-    "timings_notes/Boiled egg timings.md",
-    "timings_notes/Buckwheat cooking timings.md",
-    "timings_notes/Burger timings.md",
-    "timings_notes/Pecan butter timings.md",
-    "timings_notes/Roasted nuts timing.md",
-    "starters_sides/Sweet potato chips.md",
-    "starters_sides/Pão de queijo.md"
+    "mains/miso_aubergine.jpg",
+    "salads/Roasted broccoli cauliflower salad with goat’s cheese.md",
+    "salads/Raw beetroot and mint salad.md",
+    "salads/Cavolo nero with parmesan and roasted pine nuts.md",
+    "salads/Broccoli, sunflower seed, beetroot salad.md",
+    "salads/broccoli aspargus pine nut salad.md",
+    "salads/Aspargus beetroot salad.md",
+    "z_imgs/beetroot_salad.jpg",
+    "z_imgs/beetroot_salad 1.jpg"
   ]
 }

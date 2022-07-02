@@ -1,7 +1,5 @@
 ### Roasted broccoli cauliflower salad with goat’s cheese
 
-![[beetroot_salad 1.jpg]]
-
 #salad
 
 **Ingredients:**
