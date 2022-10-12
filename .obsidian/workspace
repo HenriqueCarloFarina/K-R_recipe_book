@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d9789d07e9dcc1ea",
+        "id": "00c7f3569447030a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "mains/Cod Ilha Bela Inspired.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,85 +19,70 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a031e21393883ed2",
-    "type": "split",
+    "id": "4172fa325ec0f81a",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "dcc77021049a57a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72da06e031adffff",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "4a1edbc79353013d",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "63f8f612d26242cb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f1b1848f2fee09d3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "94e669b8863740c4",
-    "type": "split",
+    "id": "63a1be3ddf020b8e",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "930fe4ae667c8dd8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f4e6540f4fe3dc8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "mains/Cod Ilha Bela Inspired.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "4abe1f0d15ce1d36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "mains/Cod Ilha Bela Inspired.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "d9789d07e9dcc1ea",
+  "active": "00c7f3569447030a",
   "lastOpenFiles": [
-    "mains/Cod Ilha Bela Inspired.md",
+    "mains/Sicilian Grilled Tuna.md",
     "mains/Vietnamese prawns stir fry.md",
     "mains/Mexican fish stew.md",
-    "mains/Gnocchi GF.md",
+    "mains/Cod Ilha Bela Inspired.md",
     "mains/Caponata.md",
+    "deserts/Ricotta almond and pear cake.md",
+    "mains/Gnocchi GF.md",
     "starters_sides/Sweet potato chips.md",
     "starters_sides/Pão de queijo.md",
-    "starters_sides/Joels oven potatoes.md",
-    "sauces/Katie’s tomato sauce.md",
-    "sauces/Garlicky yogurt tahini sauce.md"
+    "starters_sides/Joels oven potatoes.md"
   ]
 }

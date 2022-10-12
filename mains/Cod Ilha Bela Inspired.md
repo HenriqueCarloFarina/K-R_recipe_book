@@ -1,4 +1,4 @@
-White fish with lime salt and pepper in grill ~ 15 min temp ~180
+White fish with lime salt and pepper in grill ~ 12 min temp ~210
 2 thick cod loins
 
 Sauce:
