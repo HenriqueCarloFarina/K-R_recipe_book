@@ -28,3 +28,8 @@ In a big bowl mix:
 - Take it to the oven pre heated to 180°C  
 
 It should take approx. 13 min
+
+Lower cheese one with:
+400 tapioca flour 
+380 lidl low fat cheese 
+Used 75% of butter milk.k8x
