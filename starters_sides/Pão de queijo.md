@@ -17,19 +17,18 @@ Mix:
 And heat it to melt the butter in low heat  
   
 In a big bowl mix:  
-- 190g of tapioca flour  
-- 190g of cassava flour  
+- 380g of tapioca flour   
 - 550g grated cheese (usually low fat cheddar)  
 - 4 eggs  
-- Molten butter  
+- Molten butter mix (don't put all at once, put 50%of it and mix the dough and see if the texture is uniform, if it is still too dry add another 25% and mix again, usually 75% is enough but can vary depending on cheese) 
   
 - Split it in medium balls of approx. 7cm diameter.  
 - Roll them on grated parmesan  
 - Take it to the oven pre heated to 180°C  
 
-It should take approx. 13 min
+It should take approx. 13 min from fresh or approx 24min from frozen 
 
-Lower cheese one with:
-400 tapioca flour 
-380 lidl low fat cheese 
-Used 75% of butter milk.k8x
+Version with less cheese, adjustments:
+- 400 tapioca flour 
+- 380 lidl low fat cheese 
+Used 75% of butter milk mix
