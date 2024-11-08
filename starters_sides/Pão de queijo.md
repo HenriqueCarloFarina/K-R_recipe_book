@@ -32,3 +32,11 @@ Version with less cheese, adjustments:
 - 400 tapioca flour 
 - 380 lidl low fat cheese 
 Used 75% of butter milk mix
+
+Milk free
+100g tapiocA
+92g vegan cheese 
+
+30g olive oil
+12g almond milk
+No salt
